@@ -52,6 +52,9 @@ Makefile
 install_manifest.txt
 compile_commands.json
 
+# Secrets — never commit real credentials
+secrets.h
+
 # Temporary files
 *.tmp
 *.log
